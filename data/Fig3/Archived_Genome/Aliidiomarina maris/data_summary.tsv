@@ -1,0 +1,3 @@
+Organism Scientific Name	Organism Common Name	Organism Qualifier	Taxonomy id	Assembly Name	Assembly Accession	Source	Annotation	Level	Contig N50	Size	Submission Date	Gene Count	BioProject	BioSample
+Aliidiomarina maris		strain: CF12-14	531312	ASM398733v1	GCA_003987335.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Contig	221091	3016204	2018-12-31	2876	PRJNA419941	SAMN08099979
+Aliidiomarina maris		strain: CF12-14	531312	ASM398733v1	GCF_003987335.1	RefSeq	GCF_003987335.1-RS_2026_03_31	Contig	221091	3016204	2018-12-31	2884	PRJNA419941	SAMN08099979

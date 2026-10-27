@@ -1,0 +1,7 @@
+,Ref. Q9RZA4,Seq1_g__Methylomonas_cph1,Seq2_g__Methylomonas_cph1,Seq3_g__Methylomonas_sac1D,Seq4_g__Aliidiomarina_cph1,Seq5_g__Aliidiomarina_cph1
+Ref. Q9RZA4,100.00,26.65,27.33,23.44,28.25,26.57
+Seq1_g__Methylomonas_cph1,26.65,100.00,89.59,28.35,30.12,31.11
+Seq2_g__Methylomonas_cph1,27.33,89.59,100.00,28.99,30.39,34.73
+Seq3_g__Methylomonas_sac1D,23.44,28.35,28.99,100.00,34.42,34.76
+Seq4_g__Aliidiomarina_cph1,28.25,30.12,30.39,34.42,100.00,68.48
+Seq5_g__Aliidiomarina_cph1,26.57,31.11,34.73,34.76,68.48,100.00
